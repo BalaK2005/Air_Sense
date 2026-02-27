@@ -1,5 +1,0 @@
-timestamp,city,temperature,feels_like,temp_min,temp_max,pressure,humidity,wind_speed,wind_direction,clouds,visibility,weather_main,weather_description
-2026-01-22 13:27:03,Delhi,24.07,23.52,24.07,24.07,1015,38,2.06,150,0,2500,Haze,haze
-2026-01-22 13:31:01,Delhi,24.07,23.52,24.07,24.07,1015,38,2.06,150,0,2500,Haze,haze
-2026-01-22 13:36:59,Delhi,24.07,23.45,24.07,24.07,1015,35,1.54,150,0,2800,Haze,haze
-2026-01-22 13:46:04,Delhi,24.07,23.45,24.07,24.07,1015,35,1.54,150,0,2800,Haze,haze

@@ -1,7 +1,25 @@
-venv/
-backend/venv/
+# Python
 __pycache__/
 *.pyc
-.env
-*.db
+venv/
+
+# Node
 node_modules/
+
+# Environment
+.env
+
+# ML Models
+*.h5
+*.pkl
+
+# Data
+data/raw/
+data/processed/
+
+# Charts
+charts/
+
+# OS
+.DS_Store
+Thumbs.db
